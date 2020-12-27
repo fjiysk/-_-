@@ -1,22 +1,6 @@
 
-áŠQ•¨‚ª‚ ‚éó‘Ô‚Å‚ÌƒVƒ~ƒ…ƒŒ[ƒVƒ‡ƒ“
+è³ªç‚¹ã‚’ç›®æ¨™ç‚¹ã«åœæ­¢ã•ã›ã‚‹æœ€é©åŒ–è¨ˆç®—
+By IPOPT
 
-—V‹rŠú‚©‚ç‚ÌƒVƒ~ƒ…ƒŒ[ƒVƒ‡ƒ“
-ŠÖßŠp“x•\‹L
+ã‚ªã‚¤ãƒ©ãƒ¼æ³•ãƒ»ãƒŽã‚¤ã‚ºãªã—
 
-Šp‰Á‘¬“x‚ðÅ“K‰»•Ï”‚É‚Â‚¢‚©
-
-
-•K—v‚È•ÏX
-@E1trial‚ÅŠÖßŠp“x‚ðŒvŽZ‚·‚é‚æ‚¤‚É‚·‚éB
-@EŠÖßŠp“x‚©‚çÄ¶‚³‚ê‚½ó‘Ô‚ª‚ß‚èž‚ñ‚Å‚¢‚È‚¢‚©
-@
-
-Œ´“_‚ðˆÚ“®Ž®‚É‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢
- Å“K‰»•Ï”‚É‰Á‚¦‚é‚Ì‚©HA‚ ‚½‚¦‚é‚Ì‚©H
- ‚Æ‚è‚ ‚¦‚¸—^‚¦‚é
-ƒJƒEƒ“ƒ^[ƒgƒ‹ƒN‚ÍŒvŽZ‚Ì•K—v‚ª‚È‚¢B
- áŠQ•¨‚Ì‚·‚è”²‚¯–hŽ~‚µ‚È‚­‚Ä‚Í‚¢‚¯‚È‚¢
-ƒ^[ƒQƒbƒg‚Ö‚Ì“ž’B‚ð‚Ç‚¤‹Lq‚·‚é‚Ì‚©
- ˆÄ‚PáŠQ•¨‚Æ‚Í‹t‚Ì•û—ª‚ª‚¢‚¢‚©‚È“ž’B‚ÅƒRƒXƒg‚ð‰º‚°‚é‚·‚é‚ÆáŠQ•¨‚ÆÚG‚µ‚Ä‚Å‚à“ž’B‚·‚é‚ñ‚¶‚á‚È‚¢‚©
- ˆÄ‚QŽÀ‘ª‚Ì“ž’…ó‘Ô‚ð—^‚¦‚éB
